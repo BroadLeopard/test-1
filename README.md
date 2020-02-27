@@ -6,3 +6,5 @@
 간단한 소개글 작성
 
 `function add(x,y) {return x+y;}`
+
+[testimage](./images/test.png)
