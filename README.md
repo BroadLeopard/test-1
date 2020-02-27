@@ -7,4 +7,4 @@
 
 `function add(x,y) {return x+y;}`
 
-[testimage](./images/test.png)
+![testimage](./images/test.png)
